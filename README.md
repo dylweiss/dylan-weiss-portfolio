@@ -8,7 +8,7 @@ Computer Science @ University of Pennsylvania
 Featured Projects:
 
 1. Observe+ - AI Therapy Notetaking App
-Tech:
+Tech: Javascript
 Focus:
 What it does:
 Why it matters:
@@ -27,7 +27,7 @@ Key Contributions:
 Designed similarity matching model for property valuation
 Built React interface for AI-assisted workflows
 Implemented RNN-based lease parsing engine
-🔗 GitHub Repo: link here
+🔗 GitHub Repo: https://github.com/dylweiss/R2
 📊 Slide Deck: link here
 
 2. Bankruptcy Prediction Machine Learning Model
@@ -40,5 +40,4 @@ Key Contributions:
 Built preprocessing + boosting pipelines
 Visualized prediction accuracy using heatmaps & charts
 Tuned model performance across time horizons
-🔗 GitHub Repo: link here
-📊 Slide Deck: link here
+🔗 GitHub Repo: https://github.com/dylweiss/Bankruptcy-Prediction-ML-Model
