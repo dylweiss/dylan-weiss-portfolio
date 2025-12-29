@@ -14,7 +14,7 @@ What it does:
 Why it matters:
 Key contributions:
 🔗 GitHub Repo: link here
-📊 Slide Deck: link here
+📊 Slide Deck: https://docs.google.com/presentation/d/14AQ-gAQVkhS3rgm3ZhAdYKAP-00ABb-9zDZoKG7_UZM/edit?usp=sharing
 
 1. R2 — Real Estate AI Analyst Tool
 Tech: Python, React, TypeScript, SQL, RNNs
