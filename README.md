@@ -7,14 +7,16 @@ Computer Science @ University of Pennsylvania
 
 Featured Projects:
 
-1. Observe+ - AI Therapy Notetaking App
+1. Observe+ App
 Tech: Javascript
-Focus:
-What it does:
-Why it matters:
+Focus: AI Therapy Notetaking App
+What it does: Observe+ makes writing session notes faster and safer. It allows behavior analysts to finish in seconds through tapping pre-saved labels and filling in provided templates and immediately autosaves progress.
+Why it matters: Session notes are a time-sinking, repetitive burden, forcing a choice between client safety and real-time documentation, and leading to constant fear of data loss for behavior analysts.
 Key contributions:
-🔗 GitHub Repo: link here
-📊 Slide Deck: [link](https://docs.google.com/presentation/d/14AQ-gAQVkhS3rgm3ZhAdYKAP-00ABb-9zDZoKG7_UZM/edit?usp=sharing)
+Calendar Dashboard, featuring intuitive viewsto navigate all sessions
+Dropdown and add-on buttons choosing words based on frequency algorithm 
+🔗 GitHub Repo: https://github.com/caitcui/f25-hci-observeplus
+📊 Slide Deck: [Deck](https://docs.google.com/presentation/d/14AQ-gAQVkhS3rgm3ZhAdYKAP-00ABb-9zDZoKG7_UZM/edit?usp=sharing)
 
 1. R2 — Real Estate AI Analyst Tool
 Tech: Python, React, TypeScript, SQL, RNNs
@@ -28,7 +30,7 @@ Designed similarity matching model for property valuation
 Built React interface for AI-assisted workflows
 Implemented RNN-based lease parsing engine
 🔗 GitHub Repo: https://github.com/dylweiss/R2
-📊 Slide Deck: link here
+📊 Slide Deck: [Deck](https://docs.google.com/presentation/d/19-wZVbgGqLIF59G9zWIhcASRuH8dHIjd2EurnlPvQsk/edit?usp=sharing)
 
 2. Bankruptcy Prediction Machine Learning Model
 Tech: Python, scikit-learn, boosting, data visualization
