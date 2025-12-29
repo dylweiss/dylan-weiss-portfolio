@@ -29,7 +29,7 @@ Key Contributions:
 Designed similarity matching model for property valuation
 Built React interface for AI-assisted workflows
 Implemented RNN-based lease parsing engine
-🔗 GitHub Repo: https://github.com/dylweiss/R2
+🔗 GitHub Repo: https://github.com/dylweiss/R2  
 📊 Slide Deck: [Deck](https://docs.google.com/presentation/d/19-wZVbgGqLIF59G9zWIhcASRuH8dHIjd2EurnlPvQsk/edit?usp=sharing)
 
 2. Bankruptcy Prediction Machine Learning Model
@@ -43,3 +43,6 @@ Built preprocessing + boosting pipelines
 Visualized prediction accuracy using heatmaps & charts
 Tuned model performance across time horizons
 🔗 GitHub Repo: https://github.com/dylweiss/Bankruptcy-Prediction-ML-Model
+
+About Me
+I’m a senior at the University of Pennsylvania studying Computer Science with an AI concentration and a Data Science minor. I enjoy building AI tools that solve real business problems, especially in housing, finance, and customer-facing systems.
