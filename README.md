@@ -15,8 +15,8 @@ Why it matters: Session notes are a time-sinking, repetitive burden, forcing a c
 Key contributions:  
 Calendar Dashboard, featuring intuitive viewsto navigate all sessions  
 Dropdown and add-on buttons choosing words based on frequency algorithm   
-🔗 GitHub Repo: https://github.com/caitcui/f25-hci-observeplus  
-📊 Slide Deck: [Deck](https://docs.google.com/presentation/d/14AQ-gAQVkhS3rgm3ZhAdYKAP-00ABb-9zDZoKG7_UZM/edit?usp=sharing)  
+GitHub Repo: https://github.com/caitcui/f25-hci-observeplus  
+Slide Deck: [Deck](https://docs.google.com/presentation/d/14AQ-gAQVkhS3rgm3ZhAdYKAP-00ABb-9zDZoKG7_UZM/edit?usp=sharing)  
 
 1. R2 — Real Estate AI Analyst Tool  
 Tech: Python, React, TypeScript, SQL, RNNs  
@@ -29,8 +29,8 @@ Key Contributions:
 Designed similarity matching model for property valuation  
 Built React interface for AI-assisted workflows  
 Implemented RNN-based lease parsing engine  
-🔗 GitHub Repo: https://github.com/dylweiss/R2  
-📊 Slide Deck: [Deck](https://docs.google.com/presentation/d/19-wZVbgGqLIF59G9zWIhcASRuH8dHIjd2EurnlPvQsk/edit?usp=sharing)  
+GitHub Repo: https://github.com/dylweiss/R2  
+Slide Deck: [Deck](https://docs.google.com/presentation/d/19-wZVbgGqLIF59G9zWIhcASRuH8dHIjd2EurnlPvQsk/edit?usp=sharing)  
 
 2. Bankruptcy Prediction Machine Learning Model  
 Tech: Python, scikit-learn, boosting, data visualization  
@@ -42,7 +42,7 @@ Key Contributions:
 Built preprocessing + boosting pipelines  
 Visualized prediction accuracy using heatmaps & charts  
 Tuned model performance across time horizons  
-🔗 GitHub Repo: https://github.com/dylweiss/Bankruptcy-Prediction-ML-Model  
+GitHub Repo: https://github.com/dylweiss/Bankruptcy-Prediction-ML-Model  
 
 About Me  
 I’m a senior at the University of Pennsylvania studying Computer Science with an AI concentration and a Data Science minor. I enjoy building AI tools that solve real business problems.
