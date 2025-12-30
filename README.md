@@ -45,4 +45,4 @@ Tuned model performance across time horizons
 🔗 GitHub Repo: https://github.com/dylweiss/Bankruptcy-Prediction-ML-Model  
 
 About Me  
-I’m a senior at the University of Pennsylvania studying Computer Science with an AI concentration and a Data Science minor. I enjoy building AI tools that solve real business problems, especially in housing, finance, and customer-facing systems.
+I’m a senior at the University of Pennsylvania studying Computer Science with an AI concentration and a Data Science minor. I enjoy building AI tools that solve real business problems.
